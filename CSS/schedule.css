@@ -41,3 +41,10 @@
     justify-content: center;
     text-align: center;
 }
+.Sechedule-top{
+    column-gap: 15px;
+    justify-content: space-between;
+}
+.Sechedule-padding{
+    padding-bottom: 40px;
+}
